@@ -80,6 +80,15 @@
         </a>
       </li>
     </ul>
+    <h2>DotA 2</h2>
+    <ul>
+      <li>
+        <a href="https://dota2.becomethegamer.com/dashboard">Counterpicker - now out of date</a>
+      </li>
+      <li>
+        <a href="https://www.opendota.com/api-keys">Open DotA API</a>
+      </li>
+    </ul>
   </div>
 </template>
 
