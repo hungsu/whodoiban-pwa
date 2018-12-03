@@ -48,7 +48,7 @@ export default {
   name: "HelloWorld",
   data() {
     return {
-      msg: "Welcome Ben. I am Hung."
+      msg: "Welcome Master Hung. I am Ben Kenobi."
     };
   }
 };
